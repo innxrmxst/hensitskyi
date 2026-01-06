@@ -8,23 +8,24 @@ This page provides extended legal information regarding the activities of **GenS
 
 ## Company Details
 
-**Full Company Name:**  
+**Company**
 GenSec Consulting Maksym Hensitskyi
 
 **Legal Form:**  
-Sole proprietorship
+Sole proprietorship (Poland)
 
-**Registered Address:**  
+**Address:**  
 Czeremchowa 32/36  
-61-474 Poznań  
+61-474 Poznan
 Poland
 
-**NIP:** 7831934938  
-**REGON:** 542444183
+**Tax ID:** 7831934938  
+**Business Registry Number:** 542444183  
+**Business Activity Code:** 62.20.A – Activity in the field of cybersecurity.
 
 **Bank:** Santander Bank Polska  
-**Account number:** 34 1090 1463 0000 0001 6345 9842  
-**SWIFT:** WBKPPLPP  
+**Account number (IBAN):** 34 1090 1463 0000 0001 6345 9842  
+**SWIFT/BIC:** WBKPPLPP  
 
 ---
 
@@ -32,8 +33,8 @@ Poland
 
 **Maksym Hensitskyi**
 
-**Email:** *innxrmxst@gmail.com*  
-**Phone:** *+48 000 000 000*  
+**Email:** *m.hensitskyi@icloud.com*  
+**Phone:** *+48 780 740 320  
 **Website:** *https://hensitskyi.com/*
 
 ---
@@ -55,13 +56,6 @@ Any external links are carefully checked, but their content remains the responsi
 
 ---
 
-## Copyright
-
-Unless otherwise stated, all text, images, and other content on this website are the property of **GenSec Consulting Maksym Hensitskyi**.
-
-Reproduction, redistribution, or commercial use is prohibited without explicit written permission.
-
----
 
 ## Privacy Notice
 
