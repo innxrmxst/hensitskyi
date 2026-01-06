@@ -86,8 +86,8 @@ enableEmoji = true
 
     [[params.contacts]]
         label = "email"
-        value = "m.hensitskyi@icloud.com"
-        url = "mailto:m.hensitskyi@icloud.com"
+        value = "info@hensitskyi.com"
+        url = "mailto:info@hensitskyi.com"
         icon = "fa fa-envelope"
 
     [[params.contacts]]
