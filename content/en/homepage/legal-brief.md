@@ -19,9 +19,9 @@ Czeremchowa 32/36
 61-474 Poznan
 Poland
 
-**NIP (Tax ID):** 7831934938  
-**REGON (Business Registry Number):** 542444183  
-**PKD (Business Activity Code):** 62.20.A – Activity in the field of cybersecurity.
+**Tax ID:** 7831934938  
+**Business Registry Number:** 542444183  
+**Business Activity Code:** 62.20.A – Activity in the field of cybersecurity.
 
 **Bank:** Santander Bank Polska  
 **Account number (IBAN):** 34 1090 1463 0000 0001 6345 9842  
