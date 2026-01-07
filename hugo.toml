@@ -96,6 +96,12 @@ enableEmoji = true
         url = "https://zbooking.eu/hj9Gk"
         icon = "fa-regular fa-calendar-check"
 
+   [[params.contacts]]
+        label = "LinkedIn"
+        value = "GSC – Maksym Hensitskyi"
+        url = "https://linkedin.com/company/gsc-maksym-hensitskyi"
+        icon = "fa-brands fa-linkedin"
+
     # Add additional contacts here!
     # [[params.contacts]]
     #     label = ""
